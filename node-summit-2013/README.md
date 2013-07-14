@@ -26,9 +26,9 @@ Next, we walk through the the birth of TDD, the evolution into BDD, and review t
 We will finish with my own personal experiment in the BDD space which is a split loose specification / implementation framework called `doubleshot`.
 
 ## Why will this presentation be important to the Node.js community and the Node Summit Conference? (100 Words MAX) *
-We are fortunate to have the amount of modules related to testing we do. However, it is easy to lose track of how things came to be. I think this will re-enforce the importance of acknowledging our past.
+We are fortunate to have the amount of modules related to testing we do. However, it is easy to lose track of how things came to be. I think this will reinforce the importance of acknowledging our past.
 
 ## What do you think the key highlights and takeaways will be from your NodeTalk? (100 Words MAX) *
-It is important to know where we came from so we can learn from their lessons and not let the technologies they introduced go to waste.
+The key highlights will be the history of BDD, getting a distilled understanding of what BDD is, and how to use it.
 
 ## Additional Notes (100 Words MAX)
