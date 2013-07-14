@@ -2,7 +2,7 @@
 http://2013.cssconf.eu/call-for-speakers/
 
 ## Topic of presentation *
-Programmatically inverting your website colors
+Inverting your website colors
 
 ## Summary (to be used on site), plain text or Markdown (~3-5 sentences). *
 Inverting your websites color is a practical design technique to see your website with a new set of eyes. We will walk through making our own bookmarklet that inverts the colors of our website (even down to images). This will be cross-browser, tested down to IE6, and built with modules that exist today.
