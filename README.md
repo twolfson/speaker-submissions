@@ -2,22 +2,10 @@
 
 A collection of submissions for "Call for Speakers" listings
 
-## Getting Started
-Install the module with: `npm install speaker-submissions`
+Originally, I had my speaker submissions spread across various repositories on GitHub. Now, all future ones will be consolidated here.
 
-```javascript
-var speaker_submissions = require('speaker-submissions');
-speaker_submissions.awesome(); // "awesome"
-```
-
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
-
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint via [grunt](https://github.com/gruntjs/grunt) and test via `npm test`.
+## Viewing a submission
+Each submission is placed inside of its own folder in case it has any required assets. Additionally, this is for consistency among submissions.
 
 ## License
 Copyright (c) 2013 Todd Wolfson
