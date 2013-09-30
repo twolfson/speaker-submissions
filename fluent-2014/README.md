@@ -61,6 +61,8 @@ Any other information you would like the conference organizers to know?
 
 https://www.youtube.com/watch?v=1061osd0G_U
 
+>  Any other information you would like the conference organizers to know?
+
 ## Diversity
 
 > Does your presentation have the participation of a woman, person of color or member of another group often underrepresented at tech conferences? *
@@ -69,6 +71,10 @@ https://www.youtube.com/watch?v=1061osd0G_U
 - [x] No
 
 > Diversity is one of the factors we seriously consider when reviewing proposals as we seek to broaden our speaker roster
+
+## O'Reilly Author
+
+> If you are an author or content contributor at O’Reilly, please fill in the name of your main O’Reilly editorial contact
 
 ## Did someone recommend or encourage you to submit a proposal?
 
