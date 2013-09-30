@@ -1,23 +1,33 @@
 Proposal title *
 
+Designing code
+
 Description * (brief overview for marketing purposes, max. length 400 characters—about 65 words)
+
+Visual design has characteristics which can improve comprehension speed. This presentation reviews techniques and experiments with applying these concepts to code.
 
 Topics (select the most relevant to your proposal)
 [ ] Front End Frameworks and Libraries
 [ ] The Server Side
 [ ] Node.js
 [ ] HTML5, CSS3, and Browser Technologies
-[ ] Pure Code and JavaScript
+[x] Pure Code and JavaScript
 [ ] Mobile
 [ ] Tools, Platforms, and APIs
-[ ] The Leading Edge
+[x] The Leading Edge
 [ ] Doing Business on the Web Platform
 [ ] Gaming
 [ ] User Interface / User Experience
 
 Session type *
 
+[x] 30-minute session
+[ ] 90-minute session
+[ ] 3-hour workshop
+
 Abstract *
+
+
 
 What subtopics will your session cover? Add some comma-separated tags about this proposal.
 
