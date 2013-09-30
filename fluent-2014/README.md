@@ -27,26 +27,44 @@ Session type *
 
 Abstract *
 
-
+Visual design has characteristics which can improve comprehension speed.
 
 What subtopics will your session cover? Add some comma-separated tags about this proposal.
 
+design, typography, code style, readability
+
 Audience Level *
+
+[ ] Non-technical
+[x] Beginner developer
+[ ] Intermediate
+[ ] Advanced
 
 Prerequisite Knowledge for this Session
 
+code organization, curiousity about design
+
 Is this session more conceptual or "how-to"? *
+
+[ ] Conceptual
+[ ] How-to
 
 Video URL *
 
 Video clips are mandatory. Submissions for single speakers and co-presenters must include video clips of the presenter(s); panels must include video of at least the moderator. If you don’t have video of the speaker(s) in action at an event, please create a very short clip (2-3 minutes) of the presenter(s) proposing his/hers/their session. We don’t care at all about the quality of the video; we care about the quality of the speakers. Feel free to use your phone or Flipcam to take the video, and don’t worry about editing it in any way. If your video isn’t already online, post it to a third-party site (YouTube is fine), and then share the link with us.
 Any other information you would like the conference organizers to know?
 
+https://www.youtube.com/watch?v=1061osd0G_U
+
 Does your presentation have the participation of a woman, person of color or member of another group often underrepresented at tech conferences? *
+
+[ ] Yes
+[x] No
 
 Diversity is one of the factors we seriously consider when reviewing proposals as we seek to broaden our speaker roster
 
 Did someone recommend or encourage you to submit a proposal?
+
 
 If so, please let us know who sent you:
 
