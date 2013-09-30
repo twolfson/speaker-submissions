@@ -8,7 +8,7 @@ Designing code
 ## Description
 > brief overview for marketing purposes, max. length 400 characters—about 65 words
 
-Visual design has characteristics which can improve comprehension speed. This presentation reviews techniques and experiments with applying these concepts to code.
+Visual design has characteristics which can improve comprehension speed. This presentation reviews techniques that can be applied to code.
 
 ## Topics (select the most relevant to your proposal)
 - [ ] Front End Frameworks and Libraries
@@ -31,7 +31,7 @@ Visual design has characteristics which can improve comprehension speed. This pr
 
 ## Abstract
 
-Visual design has characteristics which can improve comprehension speed.
+Visual design has characteristics which can improve comprehension speed. This presentation reviews techniques that can be applied to code. These include visual design patterns, vertical rhythm, horizontal rhythm.
 
 ## Tags
 > What subtopics will your session cover? Add some comma-separated tags about this proposal.
