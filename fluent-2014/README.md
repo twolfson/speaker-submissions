@@ -11,23 +11,23 @@ Designing code
 Visual design has characteristics which can improve comprehension speed. This presentation reviews techniques and experiments with applying these concepts to code.
 
 ## Topics (select the most relevant to your proposal)
-[ ] Front End Frameworks and Libraries
-[ ] The Server Side
-[ ] Node.js
-[ ] HTML5, CSS3, and Browser Technologies
-[x] Pure Code and JavaScript
-[ ] Mobile
-[ ] Tools, Platforms, and APIs
-[x] The Leading Edge
-[ ] Doing Business on the Web Platform
-[ ] Gaming
-[ ] User Interface / User Experience
+- [ ] Front End Frameworks and Libraries
+- [ ] The Server Side
+- [ ] Node.js
+- [ ] HTML5, CSS3, and Browser Technologies
+- [x] Pure Code and JavaScript
+- [ ] Mobile
+- [ ] Tools, Platforms, and APIs
+- [x] The Leading Edge
+- [ ] Doing Business on the Web Platform
+- [ ] Gaming
+- [ ] User Interface / User Experience
 
 ## Session type
 
-[x] 30-minute session
-[ ] 90-minute session
-[ ] 3-hour workshop
+- [x] 30-minute session
+- [ ] 90-minute session
+- [ ] 3-hour workshop
 
 ## Abstract
 
@@ -40,10 +40,10 @@ design, typography, code style, readability
 
 ## Audience Level
 
-[ ] Non-technical
-[x] Beginner developer
-[ ] Intermediate
-[ ] Advanced
+- [ ] Non-technical
+- [x] Beginner developer
+- [ ] Intermediate
+- [ ] Advanced
 
 ## Prerequisite Knowledge for this Session
 
@@ -51,8 +51,8 @@ code organization, curiousity about design
 
 ## Is this session more conceptual or "how-to"? *
 
-[x] Conceptual
-[ ] How-to
+- [x] Conceptual
+- [ ] How-to
 
 ## Video URL *
 
@@ -65,8 +65,8 @@ https://www.youtube.com/watch?v=1061osd0G_U
 
 > Does your presentation have the participation of a woman, person of color or member of another group often underrepresented at tech conferences? *
 
-[ ] Yes
-[x] No
+- [ ] Yes
+- [x] No
 
 > Diversity is one of the factors we seriously consider when reviewing proposals as we seek to broaden our speaker roster
 
@@ -80,4 +80,4 @@ https://www.youtube.com/watch?v=1061osd0G_U
 
 > We may also want to contact you for other O’Reilly content creation opportunities such writing, webcasts, etc. By submitting a proposal, you agree that O’Reilly may contact you about these other activities.
 
-[ ] If you’d prefer that we NOT contact you, please check here.
+- [ ] If you’d prefer that we NOT contact you, please check here.
