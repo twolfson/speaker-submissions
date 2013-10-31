@@ -29,7 +29,7 @@ For development, we will cover tightening the feedback loop and getting instanta
 Node.js thrives on its ecosystem. However, creating and maintaining small modules rather than a large project can seem overwhelming. This talk will make the smaller scenario seem more approachable.
 
 ## What do you think the key highlights and takeaways will be from your NodeTalk? (100 Words MAX) *
-Discovery of a bunch of new tools and applying old techniques (live coding) to unexpected areas.
+Discovery of a bunch of new tools and applying old techniques (e.g. live coding) to unexpected areas.
 
 A large portion of the talk will be adopted from my blog post:
 
