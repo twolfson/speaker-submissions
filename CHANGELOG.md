@@ -1,4 +1,6 @@
 # speaker-submissions changelog
+0.4.1 - Fixes for follow up submission for Node Summit
+
 0.4.0 - Added follow up submission for Node Summit
 
 0.3.1 - Moved to newer Gittip badge
