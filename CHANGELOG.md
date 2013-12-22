@@ -1,4 +1,6 @@
 # speaker-submissions changelog
+0.5.0 - Added submissions for JSFest 2014
+
 0.4.1 - Fixes for follow up submission for Node Summit
 
 0.4.0 - Added follow up submission for Node Summit
