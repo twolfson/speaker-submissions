@@ -18,6 +18,6 @@ A good example is publication. One possible flow is:
 
 *and* these must be run in a specific order!
 
-Disclaimer: This talk has been given at Node Summit 2013 and has been [released as blog post][].
+Disclaimer: This talk has been given at Node Summit 2013 and has been [released as a blog post][].
 
 [released as a blog post]: http://twolfson.com/2013-07-27-develop-faster
