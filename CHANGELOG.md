@@ -1,4 +1,6 @@
 # speaker-submissions changelog
+0.7.0 - Submitted to JSConf US 2014 Call for Speakers
+
 0.6.0 - Added Suggest a Speaker for FutureJS
 
 0.5.0 - Added submissions for JSFest 2014
