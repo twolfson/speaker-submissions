@@ -1,4 +1,6 @@
 # speaker-submissions changelog
+0.6.0 - Added Suggest a Speaker for FutureJS
+
 0.5.0 - Added submissions for JSFest 2014
 
 0.4.1 - Fixes for follow up submission for Node Summit
