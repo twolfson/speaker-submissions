@@ -1,4 +1,6 @@
 # speaker-submissions changelog
+0.9.0 - Submitted GIFSockets talk to JSConf US
+
 0.8.0 - Submitted GIFSockets talk to JSFest
 
 0.7.0 - Submitted to JSConf US 2014 Call for Speakers
